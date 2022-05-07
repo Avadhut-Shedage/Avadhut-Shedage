@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [IT-Management System](https://github.com/PranavShelke4/IT-Management-System)
 
-- 🌱 I’m currently learning **DSA.**
+- 🌱 I’m currently learning **Android.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Avadhut-Shedage](https://github.com/Avadhut-Shedage)
 
@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/avadhut shedage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avadhut shedage" height="30" width="40" /></a>
 <a href="https://fb.com/avadhut shedage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="avadhut shedage" height="30" width="40" /></a>
+<a href="https://instagram.com/avadhut_shedage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avadhut_shedage" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,4 +28,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avadhut-shedage&show_icons=true&locale=en" alt="avadhut-shedage" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avadhut-shedage&" alt="avadhut-shedage" /></p>
-
