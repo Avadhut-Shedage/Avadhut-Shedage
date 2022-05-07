@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Avadhut Shedage.</h1>
 <h3 align="center">A passionate Full Stack Web Developer.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://iconscout.com/illustration/creativity-at-work-3111920">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/binary-code-concept-illustration_114360-6578.jpg?size=338&ext=jpg">
 
 - 🔭 I’m currently working on [IT-Management-System](https://github.com/PranavShelke4/IT-Management-System)
 
