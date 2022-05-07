@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on [IT-Management System](https://github.com/PranavShelke4/IT-Management-System)
 
-- 🌱 I’m currently learning **Android.**
+- 🌱 I’m currently learning **Android**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Avadhut-Shedage](https://github.com/Avadhut-Shedage)
 
