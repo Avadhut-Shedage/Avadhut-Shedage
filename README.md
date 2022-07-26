@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/kid-happy-learning-codding-computer-web-coding-kids-illustration-coding-its-fun_258153-309.jpg?size=626&ext=jpg">
 
-- 🔭 I’m currently working on [IT-Management-System](https://github.com/PranavShelke4/IT-Management-System)
+- 🔭 I’m currently working on [IT-Management-System](https://github.com/Avadhut-Shedage/IT-Management-System)
 
 - 🌱 I’m currently learning **Android**
 
