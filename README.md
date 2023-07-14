@@ -4,9 +4,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/kid-happy-learning-codding-computer-web-coding-kids-illustration-coding-its-fun_258153-309.jpg?size=626&ext=jpg">
 
-- 🔭 I’m currently working on [IT-Management-System](https://github.com/Avadhut-Shedage/IT-Management-System)
+- 🔭 I’m currently working on [IT-Management-System](https://main.d4tu6cmlssl0k.amplifyapp.com/)
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Avadhut-Shedage](https://github.com/Avadhut-Shedage)
 
@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Web development.**
 
-- 📫 How to reach me **avadhutshedage173@gmail.com**
+- 📫 How to reach me **avadhutshedage173@gmail.com** | **avadhutshedage.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
