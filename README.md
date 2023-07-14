@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Web development.**
 
-- 📫 How to reach me **avadhutshedage173@gmail.com** | **avadhutshedage.me**
+- 📫 How to reach me **avadhutshedage173@gmail.com** | **[avadhutshedage.me](https://avadhutshedage.me)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
