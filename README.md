@@ -35,7 +35,7 @@
 # 🏆 GitHub Trophies :
 ![](https://github-profile-trophy.vercel.app/?username=Avadhut-Shedage&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
-![snake gif](https://github.com/Avadhut-Shedage/Avadhut-Shedage/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/Avadhut-Shedage/Avadhut-Shedage/blob/output/github-contribution-grid-snake.gif)
 
 # ✍️ Dev Quote :
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
