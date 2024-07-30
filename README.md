@@ -42,7 +42,8 @@
 
 --- 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://raw.githubusercontent.com/Avadhut-Shedage/Avadhut-Shedage/output/snake.svg" alt="Snake animation" />
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
