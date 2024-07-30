@@ -46,15 +46,21 @@
 
 <br/>
 
-# ✍️ Dev Quote :
+
+# 🐍 My Contributions : 
+
+<img src="https://raw.githubusercontent.com/Avadhut-Shedage/Avadhut-Shedage/output/snake.svg" alt="Snake animation" />
+
+<br>
+
+# 🤩 Geek speak Gem :
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <br/>
 
-# 📊 Github Contributions : 
-
-<img src="https://raw.githubusercontent.com/Avadhut-Shedage/Avadhut-Shedage/output/snake.svg" alt="Snake animation" />
-
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+You+for+visiting+!;" />
+</h1>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
