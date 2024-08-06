@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Full Stack Web  and Java Developer.</h3>
 
 # ✍🏻 About Me :
-🔭 I’m currently working on Personal Projects.<br>🌱 I’m currently learning DSA.<br>👯 I’m looking to collaborate on Web Dev Projects.<br>💬 Ask me about MERN Stack and DSA.<br>🤝  How to reach me - https://avadhutshedage.netlify.app/(https://avadhutshedage.netlify.app/)
+🔭 I’m currently working on Personal Projects.<br>🌱 I’m currently learning DSA.<br>👯 I’m looking to collaborate on Web Dev Projects.<br>💬 Ask me about MERN Stack and DSA.<br>🤝  How to reach me - https://avadhutshedage.netlify.app/
 
 <br> 
 
